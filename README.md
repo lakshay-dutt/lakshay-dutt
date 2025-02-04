@@ -1,6 +1,6 @@
 # Hi there, I'm Lakshay Dutt 👋
 
-🚀 Founding Frontend Engineer at Keychain | Ex-Razorpay | Ex-OLX Group  
+🚀 Founding Frontend Engineer at Keychain | Ex-Razorpay
 🎓 B.Tech in Computer Science and Engineering, Maharishi Dayanand University  
 
 I'm a passionate software engineer with over 5 years of experience in designing and building high-performance, scalable web applications. Proficient in **React.js**, **Node.js**, and modern web technologies, I thrive on creating user-centric solutions that drive engagement and impact.
